@@ -29,7 +29,7 @@ I am a developer who is passionate about stuff like Deep Learning, Data Science,
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ibtehaaj&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ibtehaaj&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ibtehaaj&theme=tokyonight">
 </p>
 
 </details>
