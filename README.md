@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**ibtehaaj/ibtehaaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Ibtehaj! a Lifelong Learner and an AI enthusiast from Karachi, Pakistan
+I am a developer who is passionate about stuff like Deep Learning, Data Science and Business Intelligence. I am actively looking for opportunities in Data Science. I have a passion for learning and sharing my knowledge with others a public as possible
 
 Here are some ideas to get you started:
 
@@ -12,5 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: "There are 10 types of people in the world. Those who get Binary and those who don't."
