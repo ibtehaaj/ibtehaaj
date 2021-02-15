@@ -11,6 +11,8 @@
 I am a developer who is passionate about stuff like Deep Learning, Data Science, Graphic Design and Business Intelligence. I am actively looking for opportunities in Data Sciences.
 </p>
 
+
+### 🧐 More About Me:
 - 🌱 I’m currently learning and growing my skillset in Deep Learning, Machine Learning, Data Science, Big Data Analytics, Business Intelligence and Competitive Programming.
 - 👯 I’m looking to collaborate on Deep Learning, Data Analytics and Data Science.
 - 💬 Ask me about anything related to tech and cats.
